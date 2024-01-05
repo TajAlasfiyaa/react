@@ -110,7 +110,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/react](https://github.com/TajAlasfiyaa/react)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|227<br/>Tools used|12/10/23 <br/>Report generated|
+|234<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -617,9 +617,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (169)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (176)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (169)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (176)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -664,9 +664,11 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-react-app](https://www.npmjs.com/babel-preset-react-app)|v3.0.2|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[bindings](https://www.npmjs.com/bindings)|v1.5.0|09/19/15|Ben Alpert |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|06/03/23|Sebastian Markbåge |MIT|N/A|
+|[browserslist](https://www.npmjs.com/browserslist)|v4.13.0|06/03/23|Sebastian Markbåge |MIT|[CVE-2021-23364](https://github.com/advisories/GHSA-w8qv-6jwh-64r5) (Moderate)|
 |[busboy](https://www.npmjs.com/busboy)|v1.6.0|06/03/23|Sebastian Markbåge |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|v1.2.1|08/24/22|Tim Neutkens |MIT|N/A|
 |[case-sensitive-paths-webpack-plugin](https://www.npmjs.com/case-sensitive-paths-webpack-plugin)|v2.1.1|03/01/23|Sebastian Markbåge |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|01/24/20|Nicolas Gallagher |MIT|N/A|
 |[child-process-promise](https://www.npmjs.com/child-process-promise)|v2.2.1|06/14/23|Ruslan Lesiutin |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.5|03/02/17|Jason Quense |MIT|N/A|
 |[clear](https://www.npmjs.com/clear)|v0.1.0|11/23/18|Brian Vaughn |MIT|N/A|
@@ -682,6 +684,7 @@ Full tech stack [here](/techstack.md)
 |[create-react-class](https://www.npmjs.com/create-react-class)|v15.7.0|11/16/23|PrathamLalwani |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[cross-spawn](https://www.npmjs.com/cross-spawn)|v5.1.0|07/13/19|Brian Vaughn |MIT|N/A|
+|[danger](https://www.npmjs.com/danger)|v11.2.3|01/27/23|Jan Kassens |MIT|N/A|
 |[del-cli](https://www.npmjs.com/del-cli)|v1.1.0|06/05/19|Brian Vaughn |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v3.3.0|11/23/18|Brian Vaughn |BSD-3-Clause|[](https://github.com/advisories/GHSA-h6ch-v84p-w6p9) (High)|
 |[dotenv-expand](https://www.npmjs.com/dotenv-expand)|v4.2.0|03/01/23|Sebastian Markbåge |BSD-2-Clause|N/A|
@@ -705,6 +708,7 @@ Full tech stack [here](/techstack.md)
 |[file-loader](https://www.npmjs.com/file-loader)|v0.11.2|03/01/23|Sebastian Markbåge |MIT|N/A|
 |[file-saver](https://www.npmjs.com/file-saver)|v1.3.3|09/02/17|Dan Abramov |MIT|N/A|
 |[filesize](https://www.npmjs.com/filesize)|v3.5.10|01/24/20|Nicolas Gallagher |BSD-3-Clause|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.221.0|11/10/23|Jan Kassens |MIT|N/A|
 |[flow-remove-types](https://www.npmjs.com/flow-remove-types)|v2.221.0|11/16/23|PrathamLalwani |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v3.0.1|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[gh-pages](https://www.npmjs.com/gh-pages)|v1.1.0|06/05/19|Brian Vaughn |MIT|N/A|
@@ -717,6 +721,7 @@ Full tech stack [here](/techstack.md)
 |[http-server](https://www.npmjs.com/http-server)|v0.10.0|08/09/17|Dominic Gannaway |MIT|N/A|
 |[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|08/24/22|Tim Neutkens |MIT|N/A|
 |[ignore-styles](https://www.npmjs.com/ignore-styles)|v5.0.1|04/28/17|Sebastian Markbåge |MIT|N/A|
+|[imagemin](https://www.npmjs.com/imagemin)|v8.0.0|09/07/21|Brian Vaughn |MIT|N/A|
 |[immutable](https://www.npmjs.com/immutable)|v4.0.0|08/20/19|Brian Vaughn |MIT|N/A|
 |[inquirer](https://www.npmjs.com/inquirer)|v3.2.1|08/24/21|Brian Vaughn |MIT|N/A|
 |[ip](https://www.npmjs.com/ip)|v1.1.5|07/13/19|Brian Vaughn |MIT|N/A|
@@ -726,6 +731,7 @@ Full tech stack [here](/techstack.md)
 |[jest-resolve](https://www.npmjs.com/jest-resolve)|v20.0.4|06/28/23|Sebastian Markbåge |MIT|N/A|
 |[jest-watch-typeahead](https://www.npmjs.com/jest-watch-typeahead)|v1.1.0|03/01/23|Sebastian Markbåge |MIT|N/A|
 |[json5](https://www.npmjs.com/json5)|v0.5.1|09/18/20|Brian Vaughn |MIT|[CVE-2022-46175](https://github.com/advisories/GHSA-9c47-m6qq-7p4h) (High)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v7.0.5|06/05/19|Brian Vaughn |MIT|N/A|
 |[lodash.throttle](https://www.npmjs.com/lodash.throttle)|v4.1.1|08/13/19|Brian Vaughn |MIT|N/A|
 |[log-update](https://www.npmjs.com/log-update)|v2.3.0|10/16/17|Brian Vaughn |MIT|N/A|
 |[loose-envify](https://www.npmjs.com/loose-envify)|v1.3.1|04/05/17|Dominic Gannaway |MIT|N/A|
@@ -738,6 +744,7 @@ Full tech stack [here](/techstack.md)
 |[ncp](https://www.npmjs.com/ncp)|v2.0.0|05/29/13|Paul O’Shannessy |MIT|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v1.7.2|02/21/23|Sebastian Markbåge |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)<br/>[CVE-2020-15168](https://github.com/advisories/GHSA-w7rc-rwvf-8q5r) (Low)|
 |[node-libs-browser](https://www.npmjs.com/node-libs-browser)|v0.7.0|10/14/21|Juan |MIT|N/A|
+|[nodegit](https://www.npmjs.com/nodegit)|v0.18.3|08/09/17|Dominic Gannaway |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|02/21/23|Sebastian Markbåge |MIT|N/A|
 |[open](https://www.npmjs.com/open)|v0.0.5|02/25/20|Haseeb Furkhan Mohammed |MIT|[](https://github.com/advisories/GHSA-28xh-wpgr-7fm8) (Critical)|
 |[postcss-flexbugs-fixes](https://www.npmjs.com/postcss-flexbugs-fixes)|v3.2.0|08/24/22|Tim Neutkens |MIT|N/A|
